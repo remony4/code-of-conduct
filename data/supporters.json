@@ -1987,6 +1987,18 @@
           "email": "darko.supe@pwnconf.com"
         }
       ]
+    },
+    {
+      "name": "NODE Forum for Digital Arts",
+      "city": "Berlin, Neuköln",
+      "country": "Germany",
+      "link": "https://nodeforum.org/,
+      "contacts": [
+        {
+          "name": "Rosi Grillmair",
+          "phone": "+436644445104"
+        }
+      ]
     }
   ]
 }
